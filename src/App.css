@@ -1,0 +1,15 @@
+.stat-bar {
+ 
+    width: 100%;
+    height: 20px;
+    background-color: #ffffff;
+    border: 1px solid #ffffff;
+    
+  }
+  
+  .bar {
+    
+    height: 100%;
+    background-color: #007bff;
+    border-radius: 3px;
+  }
